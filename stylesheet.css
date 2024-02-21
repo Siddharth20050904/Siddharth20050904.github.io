@@ -1,0 +1,72 @@
+.about{
+border:2px solid;
+background-color: #ffa07a;
+}
+
+.name{
+font-weight: 900;
+font-family: "Times New Roman";
+font-size:22px;
+text-align:left;
+display:inline;
+}
+
+.pic{
+display:inline;
+}
+
+.desc{
+font-family:"sans-serif";
+color:blue;
+}
+
+.table{
+border-spacing:4px;
+background-color: lightblue;
+padding:10px;
+}
+
+.head{
+text-decoration:underline;
+}
+
+.row1{
+text-align:left;
+}
+.row2{
+text-align:center;
+}
+.course{
+display:flex;
+justify-content: space-evenly;
+}
+.autumn{
+background-color:lightblue;
+display:inline-block;
+border: 3px;
+border-radius: 20%;
+}
+
+.spring{
+background-color:lightpink;
+display:inline-block;
+border: 3px;
+border-radius: 20%;
+}
+
+
+a:visited {
+color:gray;
+}
+
+a:hover {
+  color: green;
+}
+
+a:active {
+  color: pink;
+}
+
+body{
+background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsop3o0oj8pERP8L8EOKng7AIZP0JzsIo8sQ&usqp=CAU");
+}
